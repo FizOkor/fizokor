@@ -2,9 +2,9 @@
 
 **Full-stack software engineer** who builds with JavaScript.
 
-- 🌱 Learning: Linux and DevOps
-- 🤝 Open to collaborations
-- 📫 Reach me: [your email or LinkedIn here]
+- Learning: Linux and DevOps
+- Open to collaborations
+- Reach me: fizelectro@gmail.com
 
 ### Stack
 
